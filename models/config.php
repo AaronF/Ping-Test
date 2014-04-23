@@ -29,4 +29,6 @@
 	require_once("class.data.php");
 	require_once("funcs.ping.php");
 
+	date_default_timezone_set('Europe/London');
+
 ?>
